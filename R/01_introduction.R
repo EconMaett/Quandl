@@ -191,7 +191,7 @@ class(merged_data)
 # "mts" "ts" "matrix" "array"
 
 
-# Search fo rOil on the National Stock Exchange of India (NSE):
+# Search for Oil on the National Stock Exchange of India (NSE):
 Quandl.search(query = "Oil", database_code = "NSE", per_page = 3)
 
 # END
